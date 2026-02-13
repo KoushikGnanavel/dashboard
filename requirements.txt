@@ -1,5 +1,4 @@
 gspread
 google-auth
-google-auth-oauthlib
-cryptography
-cffi
+pandas
+psycopg2-binary
